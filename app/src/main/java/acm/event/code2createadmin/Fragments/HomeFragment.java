@@ -1,4 +1,4 @@
-package acm.event.code2createadmin;
+package acm.event.code2createadmin.Fragments;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RadioButton;
 
+import acm.event.code2createadmin.Main.MainActivity;
+import acm.event.code2createadmin.R;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 

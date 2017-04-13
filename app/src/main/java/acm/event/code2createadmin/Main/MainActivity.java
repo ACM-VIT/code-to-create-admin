@@ -1,9 +1,13 @@
-package acm.event.code2createadmin;
+package acm.event.code2createadmin.Main;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import acm.event.code2createadmin.Fragments.HomeFragment;
+import acm.event.code2createadmin.R;
+import acm.event.code2createadmin.Fragments.ScannerFragment;
 
 public class MainActivity extends AppCompatActivity {
     @Override

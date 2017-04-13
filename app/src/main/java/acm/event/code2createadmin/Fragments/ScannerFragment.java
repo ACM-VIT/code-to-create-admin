@@ -1,4 +1,4 @@
-package acm.event.code2createadmin;
+package acm.event.code2createadmin.Fragments;
 
 import android.app.Fragment;
 import android.content.Context;
@@ -16,6 +16,7 @@ import com.google.zxing.Result;
 import java.util.ArrayList;
 import java.util.List;
 
+import acm.event.code2createadmin.Main.MainActivity;
 import me.dm7.barcodescanner.core.IViewFinder;
 import me.dm7.barcodescanner.core.ViewFinderView;
 import me.dm7.barcodescanner.zxing.ZXingScannerView;
